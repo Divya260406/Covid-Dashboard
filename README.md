@@ -1,9 +1,3 @@
-Absolutely 👍 I’ll give you a **complete `README.md` file** in one block so you can just copy–paste it directly.
-
-Here’s the final version:
-
----
-
 # 🦠 Covid Dashboard
 
 A data visualization and analytics dashboard built with **Django**, **Plotly**, and **Matplotlib** to explore COVID-19 trends.
@@ -68,6 +62,3 @@ It provides interactive charts, graphs, and machine learning predictions to bett
    ```
 
 ---
-
-
-Do you want me to also create a **requirements.txt** file for you (so others can install dependencies easily)?
